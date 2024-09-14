@@ -1,5 +1,5 @@
-# java_NO1
-A small white record of learning Java.
+# html_NO1
+A small white record of learning html.
 # HTML 学习笔记
 ## DOCTYPE 声明
 `<!DOCTYPE html>` 声明文档类型，告诉浏览器这是一个 HTML5 文档。
